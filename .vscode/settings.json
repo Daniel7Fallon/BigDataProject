@@ -1,0 +1,4 @@
+{
+    "jupyter.maxOutputSize": 1000000,
+    "jupyter.maxMemory": 4096
+}
