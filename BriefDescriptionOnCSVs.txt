@@ -1,0 +1,50 @@
+credits.csv
+-Headers
+  -cast: [{'cast_id': 14, 'character': 'Woody (voice)', 'credit_id': '52fe4284c3a36847f8024f95', 'gender': 2, 'id': 31, 'name': 'Tom Hanks', 'order': 0, 'profile_path': '/pQFoyx7rp09CJTAb932F2g8Nlho.jpg'}, {'cast_id': 25, 'character': 'Hannah (voice)', 'credit_id': '52fe4284c3a36847f8024fbd', 'gender': 1, 'id': 12903, 'name': 'Sarah Freeman', 'order': 11, 'profile_path': None}, {'cast_id': 27, 'character': 'TV Announcer (voice)', 'credit_id': '52fe4284c3a36847f8024fc5', 'gender': 2, 'id': 37221, 'name': 'Penn Jillette', 'order': 12, 'profile_path': '/zmAaXUdx12NRsssgHbk1T31j2x9.jpg'}]
+  -crew: [{'credit_id': '52fe4284c3a36847f8024f49', 'department': 'Directing', 'gender': 2, 'id': 7879, 'job': 'Director', 'name': 'John Lasseter', 'profile_path': '/7EdqiNbr4FRjIhKHyPPdFfEEEFG.jpg'}, etc]
+  -id
+
+keywords.csv
+-Headers
+  -id
+  -keywords: [{'id': 931, 'name': 'jealousy'}, {'id': 187065, 'name': 'toy comes to life'}] etc
+
+links.csv
+-Headers
+  -movieId
+  -imdbId
+  -tmdbId
+
+ratings.csv
+-Headers
+  -userId
+  -movieId
+  -rating: (0 - 5)
+  -timestamp
+
+movies_metadata.csv
+-Headers
+  -adult
+  -belongs_to_collection
+  -budget
+  -genres
+  -homepage
+  -id
+  -imdb_id
+  -original_language
+  -original_title
+  -overview
+  -popularity
+  -poster_path
+  -production_companies
+  -production_countries
+  -release_date
+  -revenue
+  -runtime
+  -spoken_languages
+  -status
+  -tagline
+  -title
+  -video
+  -vote_average
+  -vote_count
